@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.42.1",
     "@types/node": "^20.12.3"
+  },
+  "dependencies": {
+    "eslint": "^8.57.0"
   }
 }
